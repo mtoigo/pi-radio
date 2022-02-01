@@ -2,7 +2,7 @@
 #This file should be placed at /home/pi/radio/play.sh
 
 streams=(
-    'http://live2.takomaradio.org/stream'
+    'https://wowd.broadcasttool.stream/stream'
     'http://hd1.wamu.org/'
     'http://kexp-mp3-128.streamguys1.com/kexp128.mp3'
     'https://wera.broadcasttool.stream/stream'
